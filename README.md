@@ -1,5 +1,12 @@
 # projects_notebook
 
+https://github.com/udacity/sagemaker-deployment
+
+https://github.com/udacity/DSND_Term2/tree/master/lessons/ObjectOrientedProgramming
+
+https://github.com/aws-samples/aws-deepcomposer-samples
+
+
 > Machine Learning workflow review
 The machine learning workflow contains several steps first introduced in Lesson 2. Let's briefly review the different steps and how they relate to the AWS DeepLens project.
 
